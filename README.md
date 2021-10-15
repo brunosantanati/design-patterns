@@ -1,6 +1,6 @@
 ## Quando usar cada Design Pattern (explicações do curso)
 
-#### Quando usar o Strategy?
+#### <span style="color:blue">Quando usar o Strategy?</span>
 
 O padrão Strategy é muito útil quando temos um conjunto de algoritmos similares, e precisamos alternar entre eles em diferentes pedaços da aplicação. No exemplo do vídeo, temos diferentes maneiras de calcular o imposto, e precisamos alternar entre elas.
 
